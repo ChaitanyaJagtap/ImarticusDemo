@@ -4,3 +4,5 @@ America
 Ireland
 Isarel
 Netherland
+Africa
+Dubai
